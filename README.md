@@ -1,7 +1,7 @@
 # Flight Reservation System
 This is a Flight Reservation System project made using java Spring Boot and postgres database.
 
-This project contains following APIs:
+This project contains following APIs
 A) Get Available Seats
   Request: /flightTicketSystem/getAvailableSeats?flightNumber=abc
   
